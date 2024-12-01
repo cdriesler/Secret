@@ -77,6 +77,8 @@ def automate_function(
     else:
         automate_context.mark_run_success("No forbidden types found.")
 
+    print('Yay')
+
     # If the function generates file results, this is how it can be
     # attached to the Speckle project/model
     # automate_context.store_file_result("./report.pdf")

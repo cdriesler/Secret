@@ -2,6 +2,7 @@
 authors = ["Gergő Jedlicska <gergo@jedlicska.com>"]
 description = "Example function for Speckle Automate using specklepy"
 name = "speckle-automate-py"
+package-mode = false
 readme = "README.md"
 version = "0.1.0"
 
